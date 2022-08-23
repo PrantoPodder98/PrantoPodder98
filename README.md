@@ -75,3 +75,5 @@ Here are some ideas to get you started:
 
 
 ![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&count_private=true)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
