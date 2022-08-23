@@ -72,4 +72,4 @@ Here are some ideas to get you started:
 
 ## Github Status:
 
-[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=merko&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=dark&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
