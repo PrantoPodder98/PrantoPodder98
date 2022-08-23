@@ -74,8 +74,8 @@ Here are some ideas to get you started:
 
 [![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=tokyonight&hide=issues&show_icons=true&count_private=true&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&theme=tokyonight&hide_border=true&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&layout=compact )](https://github.com/anuraghazra/github-readme-stats)
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=dark&hide_border=true&row=1&title=Stars,Commit,PR,Repositories&text_color=blue)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&row=1&title=Stars,Commit,PR,Repositories&text_color=blue)](https://github.com/ryo-ma/github-profile-trophy)
 
