@@ -73,9 +73,9 @@ Here are some ideas to get you started:
 ## Github Status:
 
 [![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=midnight-purple&hide=issues&show_icons=true&count_private=true&hide_border=true&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&layout=compact )
-<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&layout=compact)
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=darkhub&hide_border=true&row=1&title=Stars,Commit,PR,Repositories&text_color=blue)
 
