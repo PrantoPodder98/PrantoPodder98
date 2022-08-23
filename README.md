@@ -73,4 +73,5 @@ Here are some ideas to get you started:
 ## Github Status:
 
 [![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=tokyonight&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
