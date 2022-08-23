@@ -77,8 +77,6 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&layout=compact )
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&row=1&title=Stars,Commit,PR,Repositories&text_color=blue)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrantoPodder98&repo=github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=darkhub&hide_border=true&row=1&title=Stars,Commit,PR,Repositories&text_color=blue)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&theme=midnight-purple&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
