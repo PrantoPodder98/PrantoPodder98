@@ -71,11 +71,5 @@ Here are some ideas to get you started:
 <br>
 
 ## Github Status:
-[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98)](https://github.com/PrantoPodder98/github-readme-stats)
 
-
-![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&count_private=true)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-
-[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=radical&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=merko&hide=issues&show_icons=true&count_private=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
