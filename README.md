@@ -79,5 +79,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&row=1&title=Stars,Commit,PR,Repositories&text_color=blue)]
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrantoPodder98&repo=github-readme-stats&theme=midnight-purple)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PrantoPodder98&repo=github-readme-stats)]
 
