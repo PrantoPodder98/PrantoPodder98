@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Github Status:
-[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&count_private=true)](https://github.com/PrantoPodder98/github-readme-stats)
+[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98)](https://github.com/PrantoPodder98/github-readme-stats)
 
 
-
+![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&count_private=true)
