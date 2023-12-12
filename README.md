@@ -125,3 +125,5 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/prantopodder98/prantopodder98/blob/output/github-contribution-grid-snake.gif)
 </div>
 -->
+
+![snake animation](https://github.com/prantopodder98/prantopodder98/blob/output/github-contribution-grid-snake2.svg)
