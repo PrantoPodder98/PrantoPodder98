@@ -126,4 +126,4 @@ Here are some ideas to get you started:
 </div>
 -->
 
-![snake gif](https://github.com/PrantoPodder98/PrantoPodder98/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/PrantoPodder98/PrantoPodder98/blob/output/github-contribution-grid-snake.svg)
