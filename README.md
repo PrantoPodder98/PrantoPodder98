@@ -1,6 +1,6 @@
 # Hi There - 😄!!!!
 
-My name is Pranto Podder. I have finished my bachelor's degree in Computer Science and Engineering at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh & Currently doing MSc in Artificial Intelligence at <a href="https://www.uws.ac.uk">University of the West of Scotland</a> Optimistic and ambitious, with a passion to work with talented people and collaborate to make
+My name is Pranto Podder. I have finished my bachelor's degree in Computer Science and Engineering at <a href="https://www.uiu.ac.bd/">United International University</a> in Bangladesh & Currently doing MSc in Artificial Intelligence at <a href="https://www.uws.ac.uk">University of the West of Scotland</a>. Optimistic and ambitious, with a passion to work with talented people and collaborate to make
 projects that would make an immediate impact. 
 
 ## My interests:
