@@ -72,6 +72,7 @@ projects that would make an immediate impact.
 - Domain: Machine Learning, Data Science, and Mental Health
 - Tools: Twitter API - Tweepy (Web Scraping), LIWC, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
 - Models: Machine Learning Classifiers, BI-LSTM, BERT, 1D CNN, etc.
+- DOI: https://lnkd.in/d3DVrFNw
 
  
 
