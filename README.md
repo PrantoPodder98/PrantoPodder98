@@ -67,7 +67,7 @@ projects that would make an immediate impact.
 <br>
 
 ## Research Experience:
-1. Bachelor Thesis:  Irregular Sleep Pattern Identification and Analysis from Social Media Dataset using Hybrid Deep Learning based Attention Mechanism
+1. Bachelor Thesis:  Irregular sleep pattern identification and analysis from social media dataset using hybrid deep learning based attention mechanism
 - Supervisor: Dr. Md. Saddam Hossain Mukta, Associate Professor and Undergraduate Coordinator, United International University.
 - Domain: Machine Learning, Data Science, and Mental Health
 - Tools: Twitter API - Tweepy (Web Scraping), LIWC, Python, Tensorflow, Keras, Numpy, Pandas, Matplotlib, Seaborn, Sklearn, etc.
@@ -109,8 +109,9 @@ Here are some ideas to get you started:
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrantoPodder98&theme=midnight_purple" />
 </p>
 
-
+<!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=darkhub&hide_border=true&row=1&title=Stars,Commit,PR,Repositories,Followers,ML&text_color=blue)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 
 
