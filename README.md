@@ -101,13 +101,12 @@ Here are some ideas to get you started:
 
 ## Github Status:
 
-[![Pranto's GitHub stats](https://github-readme-stats.vercel.app/api?username=PrantoPodder98&theme=midnight-purple&hide=issues&show_icons=true&count_private=true&hide_border=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=PrantoPodder98&theme=midnight-purple)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prantopodder98&theme=midnight_purple&utcOffset=6)
 
-<p>
- <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoPodder98&theme=midnight-purple&hide_border=true&layout=compact" />
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrantoPodder98&theme=midnight_purple)
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=PrantoPodder98&theme=midnight_purple" />
-</p>
+
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=PrantoPodder98&theme=darkhub&hide_border=true&row=1&title=Stars,Commit,PR,Repositories,Followers,ML&text_color=blue)](https://github.com/anuraghazra/github-readme-stats)
