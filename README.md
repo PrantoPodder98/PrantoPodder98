@@ -101,7 +101,8 @@ Here are some ideas to get you started:
 
 ## Github Status:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=PrantoPodder98&theme=midnight-purple)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=PrantoPodder98&theme=midnight-purple&card_width=480)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=prantopodder98&theme=midnight_purple&utcOffset=6)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrantoPodder98&theme=midnight_purple)
